@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devpedzio" alt="devpedzio" /></a> </p>
 
-- 🔭 I’m currently working on [pedzio.fun](https://pedzio.fun)
+- 🔭 I’m currently working on [whores.best](https://whores.best)
 
 - 🌱 I’m currently learning **discord.js**
 
 - 👯 I'm working on a project with [Amethyst Client](https://amethystclient.xyz)
 
-- 📫 How to reach me **service@pedzio.fun**
+- 📫 How to reach me **pqow1laks2mznx@icloud.com**
 
 - ⚡ Fun fact **deez nuts is my favourite candice cock clout**
 
