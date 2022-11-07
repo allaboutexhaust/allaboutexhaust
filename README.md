@@ -1,3 +1,19 @@
+# Hey there, I'm exhaust 🌬️
+
+Also known as: ex, simonsh, allaboutexhaust
+
+#### So, welcome to my profile! ✨
+
+I don't have many interesting repositories but you can still check them out!
+
+## My skills: 
+#### ▶️ Full Stack front-end development in: HTML&CSS, Next.js
+#### ⏩ Part Stack back-end development in: JavaScript (node.js), shell, Swift and Java
+#### ▶️ I can make burritos :)
+
+## I think that's all... Check out my gifs tho! (they are under this section)
+
+
 ![](https://c7.pm/img/browser.gif)
 ![](https://c7.pm/img/notepad-logo3.gif)
 ![](https://c7.pm/img/msie3.gif)
