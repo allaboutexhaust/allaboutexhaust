@@ -14,7 +14,7 @@ I don't have many interesting repositories but you can still check them out!
 #### ▶️ I can make burritos :)
 
 ## Contact me:
-#### ~> ex#2000 on Discord
+#### ~> ex#6000 on Discord
 #### ~> email: ex@raping.me
 ## I think that's all... Check out my gifs tho! (they are under this section)
 
