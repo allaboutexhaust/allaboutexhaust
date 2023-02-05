@@ -5,7 +5,7 @@ Also known as: ex, simonsh, allaboutexhaust
 
 #### Welcome to my profile.
 
-I don't have many interesting repositories but you can still check them out.
+I don't have many interesting repositories but you can still check them out!
 
 ## My skills (liar): 
 #### ▶️ Full Stack front-end development in: HTML&CSS and Next.js
