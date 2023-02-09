@@ -8,10 +8,9 @@ Also known as: ex, simonsh, allaboutexhaust
 I don't have many interesting repositories but you can still check them out!
 
 ## My skills (liar): 
-#### ▶️ Full Stack front-end development in: HTML&CSS and Next.js
-#### ⏩ Part Stack back-end development in: JavaScript (node.js), shell, Swift and Java
-#### ▶️ Full Stack development in C based languages and .NET (C#)
-#### ▶️ I can make burritos :)
+#### ▶️ Full Stack front-end development in *Next.js*
+#### ⏩ Part Stack back-end development in *JavaScript (node.js), shell, Swift and Java*
+#### ▶️ Full Stack development in *C based languages and .NET (C#)*
 
 ## Contact me:
 #### ~> ex#6000 on Discord
