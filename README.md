@@ -14,4 +14,4 @@ I don't have many interesting repositories but you can still check them out!
 
 ## Contact me:
 #### ~> ex#6000 on Discord
-#### ~> email: ex@raping.me
+#### ~> email: contact@simonexhaust.com
