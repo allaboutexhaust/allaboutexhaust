@@ -13,5 +13,5 @@ I don't have many interesting repositories but you can still check them out!
 #### ▶️ Full Stack development in *C based languages and .NET (C#)*
 
 ## Contact me:
-#### ~> ex#6000 on Discord
-#### ~> email: contact@simonexhaust.com
+#### ~> simonexhaust on Discord
+#### ~> email: simon@enjoys.tech
